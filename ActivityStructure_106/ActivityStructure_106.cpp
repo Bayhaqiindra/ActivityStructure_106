@@ -8,3 +8,11 @@ struct mahasiswa
 	string alamat;
 	int umur;
 };
+
+int main() {
+	mahasiswa mhs1, mhs2;
+
+	mhs1.NIM = "20220140106";
+	mhs1.nama = "Bayhaqi Indra Maulana";
+	mhs1.alamat = "Riau";
+	mhs1.umur = 18;
