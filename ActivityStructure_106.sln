@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ActivityStructure_106", "Ac
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Latihan2", "Latihan2\Latihan2.vcxproj", "{9AAEBA0E-1BD4-4881-A05B-8A8F23AC6D52}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Latihan3", "Latihan3\Latihan3.vcxproj", "{131EFFFF-161E-4632-A1FB-9C279745B67F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{9AAEBA0E-1BD4-4881-A05B-8A8F23AC6D52}.Release|x64.Build.0 = Release|x64
 		{9AAEBA0E-1BD4-4881-A05B-8A8F23AC6D52}.Release|x86.ActiveCfg = Release|Win32
 		{9AAEBA0E-1BD4-4881-A05B-8A8F23AC6D52}.Release|x86.Build.0 = Release|Win32
+		{131EFFFF-161E-4632-A1FB-9C279745B67F}.Debug|x64.ActiveCfg = Debug|x64
+		{131EFFFF-161E-4632-A1FB-9C279745B67F}.Debug|x64.Build.0 = Debug|x64
+		{131EFFFF-161E-4632-A1FB-9C279745B67F}.Debug|x86.ActiveCfg = Debug|Win32
+		{131EFFFF-161E-4632-A1FB-9C279745B67F}.Debug|x86.Build.0 = Debug|Win32
+		{131EFFFF-161E-4632-A1FB-9C279745B67F}.Release|x64.ActiveCfg = Release|x64
+		{131EFFFF-161E-4632-A1FB-9C279745B67F}.Release|x64.Build.0 = Release|x64
+		{131EFFFF-161E-4632-A1FB-9C279745B67F}.Release|x86.ActiveCfg = Release|Win32
+		{131EFFFF-161E-4632-A1FB-9C279745B67F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
